@@ -31,3 +31,8 @@ https://api.mapbox.com/geocoding/v5/mapbox.places/chester.json?proximity=-74.708
 
 Working url 
 https://api.mapbox.com/geocoding/v5/mapbox.places/chester.json?proximity=-74.70850,40.78375&access_token=pk.eyJ1Ijoic2hlaXJlZmNsb3VkIiwiYSI6ImNrenN1Y3VlaTN1eTMydXFybjlzMXp2YWEifQ.aTwz20N6j_aP1QHkev7rYw&limit=1
+
+
+## MongoDB
+
+Start command - `sudo /volumes/sfdev-data/MongoDB/bin/mongod --dbpath=/volumes/sfdev-data/MongoDB-data`
