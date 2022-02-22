@@ -33,12 +33,12 @@ MongoClient.connect(connectionURL, {useNewUrlParser: true}, (error, client) => {
     //     console.log(user)
     // })
 
-    db.collection('users').find({age: 50}).toArray((error, users) => {
-        console.log(users)
-    })
-    db.collection('users').find({age: 50}).count((error, count) => {
-        console.log(count)
-    })
+    // db.collection('users').find({age: 50}).toArray((error, users) => {
+    //     console.log(users)
+    // })
+    // db.collection('users').find({age: 50}).count((error, count) => {
+    //     console.log(count)
+    // })
 
     // db.collection('users').insertOne({
     //     name: 'Sherief',
